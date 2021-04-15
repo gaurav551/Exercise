@@ -1,27 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Exercise
 {
     class Program
     {
-       static int Main(string[] args)
+       static void Main(string[] args)
         {
-          // Mini_Max_Sum m = new Mini_Max_Sum();
-          // int[] arr = {1, 2, 3, 4, 5};
-          // m.miniMaxSum(arr);
-          // return 0;
-        //   TwelveHourToTwentyFour t = new TwelveHourToTwentyFour();
-        //   System.Console.WriteLine(t.timeConversion("12:45:54PM"));
-          var MinMaxScore = new MinMaxScore();
-         foreach (var x in MinMaxScore.breakingRecords())
-         {
-                 System.Console.WriteLine(x);
-         }
-        //  var res =  BetweenTwoSets.FindLCM();
-        //  System.Console.WriteLine(res);
-         
-
-           return 1;
+        //Continue and Break
+       // CheckForDemo.BreakDemo();
+      
+        //    int[] k = {5};
+        //    int[] d = {4};
+        //    int b = 5;
+        //   int res = MostExpensiveOption.getMoneySpent(k,d,b);
+        //   System.Console.WriteLine(res);
         }
+      
     }
 }
