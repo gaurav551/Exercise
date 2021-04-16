@@ -7,11 +7,9 @@ namespace Exercise
     {
      public int migratoryBirds(List<int> arr) {
       var group = arr.GroupBy(x=>x);
-             
-             var highCount = group.OrderByDescending(x=>x.Count()).Select(x=>x.Count()).FirstOrDefault();
-             System.Console.WriteLine(highCount);
-             var keys = group.Where(x=>x.Count()==highCount).Select(x=>x.Key).OrderByDescending(x=>x).FirstOrDefault();
-           return keys;
+      var highCount = group.OrderByDescending(x=>x.Count()).Select(x=>x.Count()).FirstOrDefault();
+      var keys = group.Where(x=>x.Count()==highCount).Select(x=>x.Key).OrderByDescending(x=>x).FirstOrDefault();
+      return keys;
 
     }
     }
