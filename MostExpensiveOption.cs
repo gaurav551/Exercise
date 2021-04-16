@@ -14,12 +14,11 @@ namespace Exercise
          List<int> f = new List<int>();
          for (int i = 0; i < keyboards.Length; i++)
          {
-                    foreach (var x in drives)
-                    {
-                       
-                        res = keyboards[i] + x;
-                        f.Add(res);
-                    }
+           foreach (var x in drives)
+           {
+              res = keyboards[i] + x;
+              f.Add(res);
+            }
                   
          }
         var ordered = f.OrderByDescending(x=>x);
@@ -27,8 +26,8 @@ namespace Exercise
         {
             return -1;
         }
-        var result = ordered.Where(x=>x<b).FirstOrDefault();
-        System.Console.WriteLine();
+        var result = ordered.Where(x=>x<=b).FirstOrDefault();
+       
       
         // System.Console.WriteLine(ordered.Where(x=>x<b).FirstOrDefault());
 

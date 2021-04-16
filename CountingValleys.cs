@@ -2,9 +2,12 @@ namespace Exercise
 {
     public class CountingValleys
     {
+        /*
+         
+        */
         public static int countingValleys(int steps, string path)
     {
-        int count = 0;
+        int counter = 0;
         int updown=0;
         
         foreach (var item in path)
@@ -18,11 +21,11 @@ namespace Exercise
          }
          if(updown==0 && item=='U')
          {
-             count++;
+             counter++;
          }
             
         }
-        return count;
+        return counter;
 
     }
     }

@@ -8,15 +8,9 @@ namespace Exercise
     {
        static void Main(string[] args)
         {
-        //Continue and Break
-       // CheckForDemo.BreakDemo();
-      
-        //    int[] k = {5};
-        //    int[] d = {4};
-        //    int b = 5;
-        //   int res = MostExpensiveOption.getMoneySpent(k,d,b);
-        //   System.Console.WriteLine(res);
+        System.Console.WriteLine(CatAndMouse.catAndMouse(3,1,6));
         }
+        
       
     }
 }
