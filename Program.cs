@@ -9,7 +9,7 @@ namespace Exercise
        static void Main(string[] args)
         {
         //System.Console.WriteLine(CatAndMouse.catAndMouse(3,1,6));
-        System.Console.WriteLine(DaysOfProgrammer.dayOfProgrammer());
+       SequenceEquation.permutationEquation();
         }
         
       
