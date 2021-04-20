@@ -9,8 +9,7 @@ namespace Exercise
     {
        static void Main(string[] args)
         {
-        //System.Console.WriteLine(CatAndMouse.catAndMouse(3,1,6));
-         FindSquareInRange.squares();
+      
         }
         
       
