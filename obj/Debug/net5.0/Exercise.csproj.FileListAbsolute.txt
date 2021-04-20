@@ -14,3 +14,4 @@ C:\Users\DELL\Downloads\Compressed\HackerRank\Exercise\obj\Debug\net5.0\Exercise
 C:\Users\DELL\Downloads\Compressed\HackerRank\Exercise\obj\Debug\net5.0\ref\Exercise.dll
 C:\Users\DELL\Downloads\Compressed\HackerRank\Exercise\obj\Debug\net5.0\Exercise.pdb
 C:\Users\DELL\Downloads\Compressed\HackerRank\Exercise\obj\Debug\net5.0\Exercise.genruntimeconfig.cache
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\Exercise\obj\Debug\net5.0\Exercise.pdb
