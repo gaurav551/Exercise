@@ -10,7 +10,9 @@ namespace Exercise
        static void Main(string[] args)
         {
         //System.Console.WriteLine(CatAndMouse.catAndMouse(3,1,6));
-         FindSquareInRange.squares();
+        int[] a ={1,2,3,4,5};
+        int d = 4;
+        ArrayRotation.rotLeft(a,d);
         }
         
       
