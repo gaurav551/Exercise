@@ -11,3 +11,16 @@ C:\Users\Gaurav\Desktop\c#Apps\Exercises\Exercise\bin\Debug\netcoreapp3.1\Exerci
 C:\Users\Gaurav\Desktop\c#Apps\Exercises\Exercise\obj\Debug\netcoreapp3.1\Exercise.dll
 C:\Users\Gaurav\Desktop\c#Apps\Exercises\Exercise\obj\Debug\netcoreapp3.1\Exercise.pdb
 C:\Users\Gaurav\Desktop\c#Apps\Exercises\Exercise\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\bin\Debug\netcoreapp3.1\Exercise.exe
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\bin\Debug\netcoreapp3.1\Exercise.deps.json
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.json
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.dev.json
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\bin\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\bin\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\obj\Debug\netcoreapp3.1\Exercise.csprojAssemblyReference.cache
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfoInputs.cache
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfo.cs
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\obj\Debug\netcoreapp3.1\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\obj\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\obj\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\Gaurav\Desktop\c#Apps\Exercises\HackerRank\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache

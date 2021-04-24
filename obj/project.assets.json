@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaurav\\Desktop\\c#Apps\\Exercises\\Exercise\\Exercise.csproj",
+      "projectUniqueName": "C:\\Users\\Gaurav\\Desktop\\c#Apps\\Exercises\\HackerRank\\Exercise.csproj",
       "projectName": "Exercise",
-      "projectPath": "C:\\Users\\Gaurav\\Desktop\\c#Apps\\Exercises\\Exercise\\Exercise.csproj",
+      "projectPath": "C:\\Users\\Gaurav\\Desktop\\c#Apps\\Exercises\\HackerRank\\Exercise.csproj",
       "packagesPath": "C:\\Users\\Gaurav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaurav\\Desktop\\c#Apps\\Exercises\\Exercise\\obj\\",
+      "outputPath": "C:\\Users\\Gaurav\\Desktop\\c#Apps\\Exercises\\HackerRank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gaurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
