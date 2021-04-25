@@ -1,16 +1,24 @@
+using System.Linq;
+
 namespace Exercise
 {
     public class DivisibleSumPair
     {
-        public static int divisibleSumPairs(int n, int k, int[] ar) {
-            int[] arr = {1, 3, 2, 6, 1, 2};
-            // int div = 3;
-            // int n = 6;
+        //1,2,3,4,5,6 k = 5;
+        public static int divisibleSumPairs(int n, int k, int[] ar)
+        {
+            ar.Where(x=>x % k == 0);
 
-            return 0;
+        for (int i = 0; i < ar.Length; i++)
+        {
+            
+        }
+          return 1;
 
-    
-    }
-        
+
+
+
+        }
+
     }
 }
